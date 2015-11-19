@@ -7,7 +7,7 @@
 	<artifactId>cf-intro-environment-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>cf-intro-springmvc</name>
+	<name>cf-intro-springmvc-obappa</name>
 	<description>Spring Boot Project for CF demo</description>
 
 	<parent>
